@@ -1,9 +1,3 @@
-Version:1.0
-StartHTML:0000000128
-EndHTML:0000059602
-StartFragment:0000000128
-EndFragment:0000059602
-SourceURL:about:blank
 import numpy
 import logging
 import pickle
